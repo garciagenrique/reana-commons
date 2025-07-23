@@ -34,7 +34,6 @@ extras_require = {
         "adage~=0.11.0",
         "yadage~=0.20.1",
         "yadage-schemas~=0.10.6",
-        "jsonschema<4.10.0",  # see https://github.com/yadage/yadage-schemas/issues/38
     ],
     "cwl": ["cwltool==3.1.20210628163208"],
     "snakemake": [
